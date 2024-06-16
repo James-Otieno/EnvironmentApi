@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{349B4AB2-70AC-4A6C-9B5D-027661E82691}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{D0704E5B-FE73-40FE-8333-2E66239B9568}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservice", "Microservice", "{038C03C7-FAB0-410C-86AD-5005AA6AA9D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Runtime", "Runtime", "{DC1F4B27-A41A-4BF6-8FE1-B87C3D240B58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SensorsApiProject", "SensorsApiProject", "{720134FB-C467-4D35-9B87-782D141B0A16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SensorsProject", "SensorsProject", "{5772B092-490F-465D-AD5F-B80CFEFF5128}"
+	ProjectSection(SolutionItems) = preProject
+		AirPollutionSensor.cs = AirPollutionSensor.cs
+		CO2EmissionsSensor.cs = CO2EmissionsSensor.cs
+		HumiditySensor.cs = HumiditySensor.cs
+		RainfallSensor.cs = RainfallSensor.cs
+		Sensor.cs = Sensor.cs
+		TempratureSensor.cs = TempratureSensor.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MonitoringStationApi", "MonitoringStationApi", "{0C6E0796-5AFA-4531-BC3C-17A131A63857}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeensorsMicroService.Application", "SeensorsMicroService.Application\SeensorsMicroService.Application.csproj", "{7F702510-0A2D-414C-93B8-51B54D3740CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeensorsMicroService.Domain", "SeensorsMicroService.Domain\SeensorsMicroService.Domain.csproj", "{76A7B55B-CD06-46DE-A7A5-7E89FA5241AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeensorsMicroService.Infastracture", "SeensorsMicroService.Infastracture\SeensorsMicroService.Infastracture.csproj", "{132C6BCA-A133-49A7-A48B-A26DDED88268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorsApi", "SensorsApi\SensorsApi.csproj", "{B334A452-FEE2-4E95-A7F5-AA56BF9725AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F702510-0A2D-414C-93B8-51B54D3740CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F702510-0A2D-414C-93B8-51B54D3740CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F702510-0A2D-414C-93B8-51B54D3740CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F702510-0A2D-414C-93B8-51B54D3740CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A7B55B-CD06-46DE-A7A5-7E89FA5241AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A7B55B-CD06-46DE-A7A5-7E89FA5241AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A7B55B-CD06-46DE-A7A5-7E89FA5241AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A7B55B-CD06-46DE-A7A5-7E89FA5241AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{132C6BCA-A133-49A7-A48B-A26DDED88268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132C6BCA-A133-49A7-A48B-A26DDED88268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132C6BCA-A133-49A7-A48B-A26DDED88268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132C6BCA-A133-49A7-A48B-A26DDED88268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B334A452-FEE2-4E95-A7F5-AA56BF9725AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B334A452-FEE2-4E95-A7F5-AA56BF9725AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B334A452-FEE2-4E95-A7F5-AA56BF9725AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B334A452-FEE2-4E95-A7F5-AA56BF9725AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{720134FB-C467-4D35-9B87-782D141B0A16} = {038C03C7-FAB0-410C-86AD-5005AA6AA9D4}
+		{5772B092-490F-465D-AD5F-B80CFEFF5128} = {038C03C7-FAB0-410C-86AD-5005AA6AA9D4}
+		{0C6E0796-5AFA-4531-BC3C-17A131A63857} = {038C03C7-FAB0-410C-86AD-5005AA6AA9D4}
+		{7F702510-0A2D-414C-93B8-51B54D3740CA} = {720134FB-C467-4D35-9B87-782D141B0A16}
+		{76A7B55B-CD06-46DE-A7A5-7E89FA5241AE} = {720134FB-C467-4D35-9B87-782D141B0A16}
+		{132C6BCA-A133-49A7-A48B-A26DDED88268} = {720134FB-C467-4D35-9B87-782D141B0A16}
+		{B334A452-FEE2-4E95-A7F5-AA56BF9725AC} = {720134FB-C467-4D35-9B87-782D141B0A16}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D2E79DA-B711-474D-8C42-D217CFE80E3C}
+	EndGlobalSection
+EndGlobal

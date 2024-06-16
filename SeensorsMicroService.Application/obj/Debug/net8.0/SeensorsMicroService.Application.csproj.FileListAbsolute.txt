@@ -1,0 +1,15 @@
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\bin\Debug\net8.0\SeensorsMicroService.Application.deps.json
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\bin\Debug\net8.0\SeensorsMicroService.Application.dll
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\bin\Debug\net8.0\SeensorsMicroService.Application.pdb
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\obj\Debug\net8.0\SeensorsMicroService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\obj\Debug\net8.0\SeensorsMicroService.Application.AssemblyInfoInputs.cache
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\obj\Debug\net8.0\SeensorsMicroService.Application.AssemblyInfo.cs
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\obj\Debug\net8.0\SeensorsMicroService.Application.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\obj\Debug\net8.0\SeensorsMicroService.Application.dll
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\obj\Debug\net8.0\refint\SeensorsMicroService.Application.dll
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\obj\Debug\net8.0\SeensorsMicroService.Application.pdb
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\obj\Debug\net8.0\ref\SeensorsMicroService.Application.dll
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\obj\Debug\net8.0\SeensorsMicroService.Application.csproj.AssemblyReference.cache
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\bin\Debug\net8.0\SeensorsMicroService.Domain.dll
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\bin\Debug\net8.0\SeensorsMicroService.Domain.pdb
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Application\obj\Debug\net8.0\SeensorsMicroService.Application.csproj.CopyComplete

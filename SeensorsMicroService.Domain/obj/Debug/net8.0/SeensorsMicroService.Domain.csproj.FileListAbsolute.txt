@@ -1,0 +1,14 @@
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Domain\bin\Debug\net8.0\SeensorsMicroService.Domain.deps.json
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Domain\bin\Debug\net8.0\SeensorsMicroService.Domain.runtimeconfig.json
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Domain\bin\Debug\net8.0\SeensorsMicroService.Domain.dll
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Domain\bin\Debug\net8.0\SeensorsMicroService.Domain.pdb
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Domain\obj\Debug\net8.0\SeensorsMicroService.Domain.csproj.AssemblyReference.cache
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Domain\obj\Debug\net8.0\SeensorsMicroService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Domain\obj\Debug\net8.0\SeensorsMicroService.Domain.AssemblyInfoInputs.cache
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Domain\obj\Debug\net8.0\SeensorsMicroService.Domain.AssemblyInfo.cs
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Domain\obj\Debug\net8.0\SeensorsMicroService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Domain\obj\Debug\net8.0\SeensorsMicroService.Domain.dll
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Domain\obj\Debug\net8.0\refint\SeensorsMicroService.Domain.dll
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Domain\obj\Debug\net8.0\SeensorsMicroService.Domain.pdb
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Domain\obj\Debug\net8.0\SeensorsMicroService.Domain.genruntimeconfig.cache
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Domain\obj\Debug\net8.0\ref\SeensorsMicroService.Domain.dll

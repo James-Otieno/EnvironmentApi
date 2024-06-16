@@ -1,0 +1,11 @@
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Infastracture\bin\Debug\net8.0\SeensorsMicroService.Infastracture.deps.json
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Infastracture\bin\Debug\net8.0\SeensorsMicroService.Infastracture.dll
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Infastracture\bin\Debug\net8.0\SeensorsMicroService.Infastracture.pdb
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Infastracture\obj\Debug\net8.0\SeensorsMicroService.Infastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Infastracture\obj\Debug\net8.0\SeensorsMicroService.Infastracture.AssemblyInfoInputs.cache
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Infastracture\obj\Debug\net8.0\SeensorsMicroService.Infastracture.AssemblyInfo.cs
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Infastracture\obj\Debug\net8.0\SeensorsMicroService.Infastracture.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Infastracture\obj\Debug\net8.0\SeensorsMicroService.Infastracture.dll
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Infastracture\obj\Debug\net8.0\refint\SeensorsMicroService.Infastracture.dll
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Infastracture\obj\Debug\net8.0\SeensorsMicroService.Infastracture.pdb
+C:\Users\HomePC\source\repos\EnvironmentMonitoringStationApi\SeensorsMicroService.Infastracture\obj\Debug\net8.0\ref\SeensorsMicroService.Infastracture.dll
